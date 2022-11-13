@@ -1,5 +1,5 @@
 {
-  "name": "gather-information-on-streaming-anime",
+  "name": "gather-information-on-streaming-from-prime-video",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/K0K1-0928/gather-information-on-streaming-anime.git"
+    "url": "git+https://github.com/K0K1-0928/gather-information-on-streaming-from-prime-video.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/K0K1-0928/gather-information-on-streaming-anime/issues"
+    "url": "https://github.com/K0K1-0928/gather-information-on-streaming-from-prime-video/issues"
   },
-  "homepage": "https://github.com/K0K1-0928/gather-information-on-streaming-anime#readme",
+  "homepage": "https://github.com/K0K1-0928/gather-information-on-streaming-from-prime-video#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",

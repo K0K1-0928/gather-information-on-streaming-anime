@@ -1,1 +1,1 @@
-# gather-information-on-streaming-anime
+# gather-information-on-streaming-from-prime-video
