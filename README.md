@@ -11,7 +11,7 @@ Amazon Prime Video の URL から、配信作品の画像・タイトル・URL �
 
 ### 初回
 
-1. [Gather Information on streaming from Prime Video](https://docs.google.com/spreadsheets/d/1VvicInpOhsf1PVsZ_s7R1ya4OieBPp_VVhGZHpYAkVw/edit?usp=sharing)を開き、 ファイル > コピーを作成 でスプレッドシートをコピーします。
+1. [Gather Information on streaming from Prime Video](https://docs.google.com/spreadsheets/d/1VvicInpOhsf1PVsZ_s7R1ya4OieBPp_VVhGZHpYAkVw/edit?usp=sharing)を開き、 ファイル > コピーを作成 でスプレッドシートをコピーします。(この方法以外でのコピーは機能しません)
 2. スプレッドシートを開くと、数十秒ほどでヘルプボタンの隣にスクリプトボタンが作成されます。
 3. 「URL」シートに、情報を取得したい Amazon Prime Video の URL を記載します。
 4. スプレッドシートのスクリプトボタンから、「配信作品情報取得」ボタンをクリックし、実行します。
